@@ -1,2 +1,3 @@
-# t1-html
-HTML grunder
+# HTML
+
+Grundläggande HTML, se filen index.html.
